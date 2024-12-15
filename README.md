@@ -7,9 +7,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronic Information Engineering at University of Shantou.
-- 💼 &nbsp; Working as a Test Engineer at Automotive OEMs.
-- 🌱 &nbsp; Learning more about Autopilot System and Artificial Intelligence.
+- 🎓 &nbsp; Studying Electronic Information Engineering at HENU & YSU.
+- 💼 &nbsp; Working as a Test Engineer at Sensor technology company.
+- 🌱 &nbsp; Learning more about Audio&video Technology and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies hustles.
 
 - 
