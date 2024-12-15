@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronic Information Engineering at HENU & YSU.
+- 🎓 &nbsp; Studied Electronic Information Engineering at HENU(Bachelor's degree) & YSU(Master's degree).
 - 💼 &nbsp; Working as a Test Engineer at Sensor technology company.
 - 🌱 &nbsp; Learning more about Audio&video Technology and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies hustles.
