@@ -12,8 +12,6 @@
 - 🌱 &nbsp; Learning more about Audio&video Technology and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies hustles.
 
-- 
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
